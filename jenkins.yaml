@@ -1,8 +1,7 @@
-maven:
-    installations:
-    - name: "maven"
-      properties:
-      - installSource:
-          installers:
-            - maven:
-                id: "3.5.4"
+installations:
+- name: "maven"
+  properties:
+  - installSource:
+      installers:
+        - maven:
+            id: "3.5.4"
