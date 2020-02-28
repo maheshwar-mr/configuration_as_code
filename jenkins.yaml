@@ -1,9 +1,10 @@
-tool:
-  maven:
-    installations:
-    - name: "maven"
-      properties:
-      - installSource:
-          installers:
-            - maven:
-                id: "3.5.4"
+unclassified:
+  tool:
+    maven:
+      installations:
+      - name: "maven"
+        properties:
+        - installSource:
+            installers:
+              - maven:
+                  id: "3.5.4"
